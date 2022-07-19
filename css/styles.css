@@ -5,12 +5,9 @@ body {
 
 .container {
   border: 2px solid white;
+  text-align: center;
 }
 
 .contacts {
   color: rgb(255, 255, 50);
-}
-
-.about-me {
-  width: 50vw;
 }
