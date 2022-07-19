@@ -1,0 +1,16 @@
+body {
+  background: black;
+  color: white;
+}
+
+.container {
+  border: 2px solid white;
+}
+
+.contacts {
+  color: rgb(255, 255, 50);
+}
+
+.about-me {
+  width: 50vw;
+}
