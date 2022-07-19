@@ -3,6 +3,10 @@ body {
   color: white;
 }
 
+h1 {
+  color:rgb(255, 255, 50);
+}
+
 .container {
   border: 2px solid white;
   text-align: center;
